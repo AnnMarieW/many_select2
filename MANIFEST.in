@@ -1,0 +1,2 @@
+recursive-include many_select2/** *.js *.css *.json *.html
+prune tests
